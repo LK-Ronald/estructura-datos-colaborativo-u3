@@ -1,0 +1,11 @@
+# GIT ignore
+
+proyecto_dart/pubspec.lock
+proyecto_dart/CHANGELOG.md
+proyecto_dart/.dart_tool
+
+proyecto_c#/bin
+proyecto_c#/obj/
+
+proyecto_java/.idea
+proyecto_java/.mvn
