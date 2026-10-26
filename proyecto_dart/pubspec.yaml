@@ -1,5 +1,5 @@
 name: proyecto_dart
-description: A sample command-line application with basic argument parsing.
+description: Aplicacion CLI para gestionar proveedores, productos y ordenes.
 version: 0.0.1
 # repository: https://github.com/my_org/my_repo
 
@@ -9,6 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   args: ^2.7.0
+  collection: ^1.19.1
 
 dev_dependencies:
   lints: ^6.0.0
